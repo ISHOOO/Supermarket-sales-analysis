@@ -8,7 +8,7 @@ The growth of supermarkets in most populated cities are increasing and market co
 * size of the dataset: 1000 x 13
 ## Metadata:
 
-#1  InvoiceID: Primary key of the dataset, uniquely identifies the invoice issued.
+#1  <b>InvoiceID: Primary key of the dataset, uniquely identifies the invoice issued.<\b>
 #2  
 |Branch: Branch of supermarket in given city|
 |---|
@@ -82,6 +82,7 @@ The growth of supermarkets in most populated cities are increasing and market co
 
 #11 
 |Rating: Degree of satisfaction of customer from the goods and services of the supermarket on a scale of 1-10|
+|---|
 |mean: 6.9727|
 |max: 10|
 |min: 4|
@@ -90,11 +91,13 @@ The growth of supermarkets in most populated cities are increasing and market co
 
 #12 
 |Date: Date on which the transaction took place and the invoice was printed|
+|---|
 |minimum: 2019-01-01|
 |maximum: 2019-03-30|
 
 #13 
 |Time: Time on the given date on which transaction took place and invoice was printed|
+|---|
 |minimum: 10:00:00|
 |maximum: 20:59:00|
 
