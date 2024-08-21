@@ -9,6 +9,7 @@ The growth of supermarkets in most populated cities are increasing and market co
 ## Metadata:
 
 #1  <b>InvoiceID: Primary key of the dataset, uniquely identifies the invoice issued.<\b>
+
 #2  
 |Branch: Branch of supermarket in given city|
 |---|
